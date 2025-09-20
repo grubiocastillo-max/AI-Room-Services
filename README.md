@@ -1,3 +1,6 @@
+Evaluación 03 - Diseño y Solución de Problemas con Agentes de IA
+# AI Room Services – Automatización de Atención al Cliente Hotelero con N8N
+
 # 📌 Planteamiento del Problema
 
 El proceso de atención al cliente en negocios hoteleros, especialmente en pequeños y medianos establecimientos, suele depender de la disponibilidad de personal y de respuestas manuales. Esta situación genera retrasos, respuestas inconsistentes y pérdida de oportunidades de reserva.
